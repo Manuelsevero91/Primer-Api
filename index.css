@@ -1,0 +1,16 @@
+#imagenCaja{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#imagenCaja img{
+    width: 230px;
+    height: 200px;
+    margin: 5px;
+    border: salmon 2px solid;
+    border-radius: 10px;
+    filter: drop-shadow(4px 6px 8px green);
+}
+h1{
+    text-align: center;
+}
